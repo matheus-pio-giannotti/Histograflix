@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": "9385",
+      "title": "O Descobrimento do Brasil",
+      "link": "https://youtu.be/M3rzZDl6-G0",
+      "description": "Este vídeo do canal \"Vogalizando a História\" aborda o momento em que os portugueses chegaram ao território brasileiro em 1500, explorando as circunstâncias e consequências desse evento histórico.",
+      "science": "historia"
+    },
+    {
+      "id": "1651",
+      "title": "O Dia do Fico",
+      "link": "https://youtu.be/kDgcXvHWxjA",
+      "description": "Este vídeo do canal \"Vogalizando a História\" explora o evento de 9 de janeiro de 1822, quando Dom Pedro I decidiu permanecer no Brasil, um passo crucial rumo à independência do país.",
+      "science": "historia"
+    },
+    {
+      "id": "3798",
+      "title": "A Independência do Brasil",
+      "link": "https://youtu.be/Yj54kXygM4I",
+      "description": "Este vídeo do canal \"Vogalizando a História\" detalha o processo que levou à independência do Brasil em 1822, destacando os principais personagens e acontecimentos envolvidos.",
+      "science": "historia"
+    },
+    {
+      "id": "2267",
+      "title": "Cerrado: a savana mais rica do mundo",
+      "link": "https://youtu.be/zg2xnELQ6H0?list=PLuP7SQK7lt1brl-Tu885ujGXWt0acqbAz",
+      "description": "Este episódio da série Nossos Biomas apresenta o Cerrado, conhecido como \"Berço das águas\" e considerado a savana mais rica do planeta.\n\nO Cerrado abriga cerca de 5% de toda biodiversidade mundial, com centenas de milhares de espécies de plantas nativas, mamíferos, aves, répteis, anfíbios e peixes. Vamos conhecer as belas paisagens desse ecossistema e características de animais únicos como o lobo-guará.\n\nAlém da biodiversidade, apresentamos também a cultura da região e a importância dos parques nacionais e das reservas ambientais que exercem papel fundamental para a conservação do bioma.",
+      "science": "geografia"
+    },
+    {
+      "id": "1887",
+      "title": "Pantanal: a maior área úmida continental do planeta",
+      "link": "https://youtu.be/FQdBcA1rK5Q?list=PLuP7SQK7lt1brl-Tu885ujGXWt0acqbAz",
+      "description": "Este episódio da série Nossos Biomas apresenta o Pantanal. Com 210 mil km², esta é a maior área úmida continental do planeta.\n\nO território, localizado no coração da América do Sul, abrange os estados de Mato Grosso, Mato Grosso do Sul e chega aos países vizinhos Bolívia e Paraguai. A região ainda é casa de cerca de 3,5 mil espécies de plantas e para 124 espécies de mamíferos, 463 de aves e 325 de peixes.\n\nVamos conhecer peculiaridades de espécies como o Tuiuiú, pássaro-símbolo do bioma, e entender a importância das comunidades tradicionais da região, como os povos indígenas, quilombolas e a população pantaneira, que ajudaram, no decorrer da história, a difundir a cultura local e sua preservação.",
+      "science": "geografia"
+    },
+    {
+      "id": "8098",
+      "title": "Amazônia: riqueza da natureza selvagem",
+      "link": "https://youtu.be/_MyLk4v-Oj0?list=PLuP7SQK7lt1brl-Tu885ujGXWt0acqbAz",
+      "description": "No episódio sobre a Amazônia, da série inédita Nossos Biomas, vamos desbravar a maior floresta tropical do planeta. O local é um dos últimos lugares do mundo onde se consegue observar a natureza em seu estado mais selvagem. Rica em biodiversidade, há tantos tipos de plantas e animais diferentes que até os dias de hoje ainda existem espécies que ainda não foram descobertas pelos pesquisadores.\n\nVamos entender como a floresta contribui para o equilíbrio climático e como esse ecossistema se renova ao longo do tempo.",
+      "science": "geografia"
+    },
+    {
+      "id": "6099",
+      "title": "Pampa: a natureza selvagem e o homem vivendo em harmonia",
+      "link": "https://youtu.be/At-1KfyUwBo?list=PLuP7SQK7lt1brl-Tu885ujGXWt0acqbAz",
+      "description": "No episódio sobre o Pampa, da série Nossos Biomas, vamos conhecer as planícies e colinas cobertas de gramíneas do Rio Grande do Sul, morada para mais de 400 espécies de aves, 100 espécies de mamíferos e 3.500 espécies de plantas.\n\nBioma de tríplice fronteira, abrange também Uruguai e Argentina e no seu subsolo temos um dos maiores reservatórios de água doce do mundo, o Aquífero Guarani. Um ambiente onde a natureza selvagem e o homem vivem em harmonia há séculos.",
+      "science": "geografia"
+    },
+    {
+      "id": "5244",
+      "title": "Caatinga: coração do sertão nordestino",
+      "link": "https://youtu.be/xjRWPFhxzlA?list=PLuP7SQK7lt1brl-Tu885ujGXWt0acqbAz",
+      "description": "No episódio sobre a Caatinga, da série Nossos Biomas, vamos explorar o coração do sertão nordestino. Uma terra com pedras gigantes, cavernas cheias de vida e animais nunca vistos em outras regiões, é o endereço de um misterioso deserto verde.\n\nMuito castigada pelas constantes mudanças climáticas, a Caatinga pode ter uma aparência frágil, mas isso é uma coisa que ela não é. Iremos entender como ela virou um símbolo de resistência e adaptação, onde tudo se adequa às condições de vida.",
+      "science": "geografia"
+    },
+    {
+      "id": "4851",
+      "title": "Mata Atlântica: a floresta mais antiga da América do Sul",
+      "link": "https://youtu.be/TCeRkEk1KRA?list=PLuP7SQK7lt1brl-Tu885ujGXWt0acqbAz",
+      "description": "No episódio sobre Mata Atlântica, da série Nossos Biomas, vamos viajar pela história da floresta mais antiga da América do Sul.\n\nDotada de uma impressionante biodiversidade, fruto de uma combinação única de fatores, a floresta viu os povos originários surgirem, acolheu os viajantes, e além de servir de berço ao país, ainda hoje é de extrema importância para a maioria dos brasileiros - e não só por questões econômicas.\n\nVamos entender de que forma a floresta possibilita a existência de boas condições de vida em boa parte do Brasil. E vamos ainda ver descobrir o que a Mata Atlântica e a Amazônia têm em comum - e pode acreditar, é bem mais do que apenas uma coincidência de espécies.",
+      "science": "geografia"
+    },
+    {
+      "id": "3739",
+      "title": "Dom Pedro II e o Segundo Reinado",
+      "link": "https://youtu.be/XmhzYbroULQ?list=PLiL_pwkNqn-FslkNCxgKj_X2Pdy9RjT-U",
+      "description": "Este vídeo do canal \"Vogalizando a História\" explora o longo e conturbado reinado de Dom Pedro II, desde sua ascensão ao trono até a sua queda e exílio.\n\nDurante seus 49 anos de reinado, o Brasil passou por transformações profundas, marcadas por eventos como a proibição do tráfico negreiro, a devastadora Guerra do Paraguai e a histórica abolição da escravidão.\n\nDescubra como esses acontecimentos moldaram o destino da nação e os desafios enfrentados por Dom Pedro II.",
+      "science": "historia"
+    }
+  ]
+}

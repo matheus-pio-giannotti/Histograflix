@@ -110,7 +110,7 @@ const Form = () => {
     const newVideo = { ...formData, id: (1000 + Math.floor(Math.random() * 9000)).toString() };
 
     try {
-      const response = await fetch("http://localhost:5000/videos", {
+      const response = await fetch("https://my-json-server.typicode.com/matheus-pio-giannotti/Histograflix/db", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

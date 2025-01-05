@@ -95,18 +95,26 @@ const CardList = () => {
 
   // Carrega os vídeos do servidor
   useEffect(() => {
-    const fetchVideos = async () => {
-      try {
-        const response = await fetch("https://my-json-server.typicode.com/matheus-pio-giannotti/Histograflix/db");
-        if (response.ok) {
-          const data = await response.json();
-          setVideos(data);
-        } else {
-          setNotification({ message: "Erro ao carregar vídeos!", type: "error" });
-        }
-      } catch (error) {
-        setNotification({ message: "Erro de conexão com o servidor!", type: "error" });
+  const fetchVideos = async () => {
+  try {
+    const response = await fetch("https://my-json-server.typicode.com/matheus-pio-giannotti/Histograflix/db");
+    if (response.ok) {
+      const data = await response.json();
+
+      // Verifique se data.videos é um array
+      if (Array.isArray(data.videos)) {
+        setVideos(data.videos); // Use o array videos diretamente
+      } else {
+        setNotification({ message: "Dados de vídeos inválidos!", type: "error" });
       }
+    } else {
+      setNotification({ message: "Erro ao carregar vídeos!", type: "error" });
+    }
+  } catch (error) {
+    setNotification({ message: "Erro de conexão com o servidor!", type: "error" });
+  }
+};
+
     };
 
     fetchVideos();

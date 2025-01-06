@@ -132,7 +132,7 @@ useEffect(() => {
 
   // Salva alterações no vídeo
   const handleSaveEdit = (updatedVideo) => {
-    fetch(`https://my-json-server.typicode.com/matheus-pio-giannotti/Histograflix/db/${updatedVideo.id}`, {
+    fetch(`https://my-json-server.typicode.com/matheus-pio-giannotti/Histograflix/videos/${updatedVideo.id}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
@@ -160,7 +160,7 @@ useEffect(() => {
   // Deleta um vídeo
   const handleDeleteVideo = async (id) => {
     try {
-      const response = await fetch(`https://my-json-server.typicode.com/matheus-pio-giannotti/Histograflix/db/${id}`, {
+      const response = await fetch(`https://my-json-server.typicode.com/matheus-pio-giannotti/Histograflix/videos/${id}`, {
         method: "DELETE",
       });
 
